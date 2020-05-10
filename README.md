@@ -103,6 +103,7 @@ All the above data is indexed in the below CSVs:
       * Similar to above step, this step was also run of 4 colab instances in parallel to generate respective depth images
       * Code for this handling can be found [here](https://colab.research.google.com/drive/1QpcN8SE82asljEr5_m_yOFkWE3jvnJhq?authuser=1#scrollTo=vR3sAKJX_CZY)
 * How did you calculate mean and stddev?
+   * Code for computation can be found in this [notebook](https://github.com/rajy4683/MonoMaskDepth/blob/master/DataSetMeanStd.ipynb)
    * PyTorch based [DepthDataset class](https://colab.research.google.com/drive/1KiGtCEeq7jKETSa0OZTuzqyXkCDNkSrP#scrollTo=koNkddWf9Slj&line=8&uniqifier=1) was created
    * This allows to use either PyTorch dataloaders/plain iterators to be used over the entire dataset.
    * Using [Knuth's algorithm](https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance), the mean and stddev were calculated over each channel of all the images.
