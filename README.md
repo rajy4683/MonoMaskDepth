@@ -74,8 +74,5 @@ Samples of BG/FG_BG/Masks：
 
 Depth Images：
 
-[![](https://github.com/rajy4683/MonoMaskDepth/blob/master/depthmap.png)](https://github.com/rajy4683/MonoMaskDepth/blob/master/allimg.png "Depth Images")
+[![](https://github.com/rajy4683/MonoMaskDepth/blob/master/depthmap.png)](https://github.com/rajy4683/MonoMaskDepth/blob/master/depthmap.png "Depth Images")
 ----
-
-
-###End
