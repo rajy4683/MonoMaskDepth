@@ -3,10 +3,10 @@
 
 * [MonoDepthMask](#monodepthmask)
     * [Dataset Description](#dataset-description)
-    * [Dataset Stats](./s15markup.txt#dataset-stats)
+    * [Dataset Stats](#dataset-stats)
 * [Dataset Generation Process](#dataset-generation-process)
-    * [Links](./s15markup.txt#links)
-    * [Images](./s15markup.txt#images)
+    * [Links](#links)
+    * [Images](#images)
 
 
 <!-- toc -->
